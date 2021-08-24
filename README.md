@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmrrz 
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me is to email me
 
