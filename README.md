@@ -1,5 +1,5 @@
 - 👋 Hi, @gmrrz
-- 👀 I’m interested in game development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css and some javascript 
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me is to email me
