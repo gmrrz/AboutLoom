@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Islam Salah
+- 👋 Hi, @gmrrz
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning html, css and some javascript 
 - 💞️ I’m looking to collaborate on nothing right now
