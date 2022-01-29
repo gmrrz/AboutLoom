@@ -1,6 +1,6 @@
 - 👋 Hi, @gmrrz
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning gdscript 
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me is to email me
 
