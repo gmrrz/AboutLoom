@@ -1,6 +1,5 @@
 - 👋 Hi, @gmrrz
-- 👀 I’m interested in software engineer 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in software engineer  
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me is to email me
 
