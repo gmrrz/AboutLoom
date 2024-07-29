@@ -1,4 +1,4 @@
-- 👋 Hi, @gmrrz
+- 👋 Hi, @ezloomdev
 - 👀 I’m interested in software engineer  
 - 📫 How to reach me is to email me
 
