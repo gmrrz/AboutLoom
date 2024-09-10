@@ -1,5 +1,5 @@
 - 👋 Hi, @ezloomdev
-- 👀 I’m interested in software engineer  
+- 👀 I’m interested in software engineer & game development
 - 📫 How to reach me is to email me
 
 <!---
