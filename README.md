@@ -1,5 +1,5 @@
 - 👋 Hi, @ezloomdev
-- 👀 I’m interested in tech
+- 👀 I’m interested in making stuff and maintaining it
 - 📫 How to reach me is to email me
 
 <!---
